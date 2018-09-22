@@ -64,3 +64,89 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.content{
+  width:800px;
+  margin:0 auto
+}
+
+.navigation {
+  position:static;
+  display: block;
+  padding: 10px;
+  margin:15px;
+}
+a:hover {
+ background-color: black;
+}
+a{
+  color:lightgrey;
+  padding:15px
+}
+
+header{
+  font-size: 50px;
+  font-family: 'Bangers', cursive;
+  position:relative;
+  margin:20px 0; 
+  
+}
+.innovation{
+  display:inline-block;
+  text-align: center;
+  width:48%;
+}
+.circle{
+  display:inline-block;
+  width:48%;
+}
+.circle img{
+  width: 75%;
+}
+.top-content{
+  display:inline-block;
+  position:relative;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+.top1{
+  width:48%;
+  display:inline-block;
+}
+.top2{
+  width:48%;
+  display:inline-block;
+}
+.bottom-content{
+  display:inline-block;
+  position:relative;
+  padding-left: 20px;
+  padding-top: 20px
+}
+.bottom1{
+  width:33%;
+  display:inline-block;
+}
+.bottom2{
+  width:33%;
+  display:inline-block;
+}
+.bottom3{
+  width:33%;
+  display:inline-block;
+}
+.middle-img{
+  width:100%;
+  padding left:10px;
+}
+.square img{
+  padding-top:40px;
+}
+.contact{
+padding-top: 20px;
+}
+
+footer{
+  text-align: center;
+  padding-top: 30px;
+}
